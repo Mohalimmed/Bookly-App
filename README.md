@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bookly
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Bookly-App
+>>>>>>> e2f7f15eb4211c244995d04d834473b9dd599501
